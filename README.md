@@ -50,11 +50,7 @@
 - Desenvolvimento de Sistemas.
 
 ---
-
-
-
-## Meu currículo
-
+## Sobre Mim 
 <p align="left">
   Conheça um pouco mais sobre minha formação, conhecimentos, idiomas e habilidades profissionais.
 </p>
