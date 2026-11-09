@@ -50,7 +50,7 @@
 - Desenvolvimento de Sistemas.
 
 ---
-## Sobre Mim 
+
 <p align="left">
   Conheça um pouco mais sobre minha formação, conhecimentos, idiomas e habilidades profissionais.
 </p>
