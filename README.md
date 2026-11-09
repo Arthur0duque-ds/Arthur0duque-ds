@@ -1,5 +1,5 @@
-# Olá! Eu sou Arthur Duque 
-### Estudante de Desenvolvimento de Sistemas | Tecnologia e Inovação
+# Arthur Duque 
+### Estudante de Desenvolvimento de Sistemas 
 
 <p align="left">
   Tenho 17 anos e atualmente curso Desenvolvimento de Sistemas no SENAI e estou no 2º ano do Ensino Médio no SESI.
@@ -51,25 +51,7 @@
 
 ---
 
-## Habilidades interpessoais
 
-- Comunicação e expressão.
-- Relacionamento interpessoal.
-- Inteligência emocional.
-- Empatia e escuta ativa.
-- Trabalho em equipe.
-- Organização e responsabilidade.
-- Facilidade de aprendizado.
-
----
-
-## Projetos
-
-Aqui compartilho projetos desenvolvidos durante minha formação no SENAI e minha jornada de aprendizado em programação.
-
- Novos projetos em desenvolvimento!
-
----
 
 ## Meu currículo
 
@@ -77,22 +59,15 @@ Aqui compartilho projetos desenvolvidos durante minha formação no SENAI e minh
   Conheça um pouco mais sobre minha formação, conhecimentos, idiomas e habilidades profissionais.
 </p>
 
-
-
 <a href="https://arthur0duque-ds.github.io/Curr-culo-/">
   <img src="https://img.shields.io/badge/MEU%20CURR%C3%8DCULO-1769AA?style=for-the-badge&logo=readme&logoColor=white" alt="Meu currículo"/>
 </a>
 
 ---
 
-## Objetivo profissional
-
-Busco oportunidades para desenvolver minhas habilidades, adquirir experiência profissional e aplicar meus conhecimentos na área de tecnologia, contribuindo com dedicação, responsabilidade e vontade de aprender.
-
----
 
 <p align="center">
-  <i>"O aprendizado contínuo é o caminho para transformar conhecimento em oportunidades."</i>
+  <i><strong>"O aprendizado contínuo é o caminho para transformar conhecimento em oportunidades."<strong></i>
 </p>
 
 <p align="center">
