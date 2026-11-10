@@ -29,12 +29,30 @@
   Sou interessado em tecnologia, programação e inovação. Busco constantemente desenvolver meus conhecimentos técnicos e pessoais, aprimorar minhas habilidades e construir minha trajetória profissional na área de tecnologia.
 </p>
 
+---
+
+<h2 align="center"> 
+  <img src="https://img.shields.io/badge/-%20%20MY%20DIGITAL%20WORLD-071A33?style=flat-square&labelColor=071A33&color=071A33" />
+</h2>
+
 <p align="center">
   <img
     src="./arthur_pixel_game.gif"
-    width="600"
-    alt="Animação de jogo em pixel art"
+    width="100%"
+    alt="Meu mundo digital em pixel art"
   />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=2" width="85%" />
+</p>
+
+<p align="center">
+  <sub>◈ EXPLORING • CREATING • DEVELOPING ◈</sub>
+</p>
+
+---
+
 </p>
 
 ---
