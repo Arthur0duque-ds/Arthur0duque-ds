@@ -1,4 +1,5 @@
 
+<!-- CABEÇALHO ANIMADO -->
 
 <p align="center">
   <img
@@ -8,17 +9,25 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=2&section=header" width="85%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=2"
+    width="85%"
+  />
 </p>
-
-  
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=450&lines=Programming+%26+Technology;Always+learning%2C+always+building." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=450&lines=Programming+%26+Technology;Always+learning%2C+always+building."
+    alt="Programming and Technology"
+  />
 </p>
 
-### Estudante de Desenvolvimento de Sistemas 
+---
+
+<!-- APRESENTAÇÃO -->
+
+### Estudante de Desenvolvimento de Sistemas
+
 <p align="left">
   Tenho 17 anos e atualmente curso Desenvolvimento de Sistemas no SENAI e estou no 2º ano do Ensino Médio no SESI.
   <br><br>
@@ -27,26 +36,37 @@
 
 ---
 
-<h2 align="center"> 
-  <img src="https://img.shields.io/badge/-%20%20MY%20DIGITAL%20WORLD-071A33?style=flat-square&labelColor=071A33&color=071A33" />
+<!-- GAME / PIXEL ART -->
+
+<h2 align="center">
+  <img
+    src="https://img.shields.io/badge/MY%20DIGITAL%20WORLD-071A33?style=flat-square&labelColor=071A33&color=071A33"
+    alt="My Digital World"
+  />
 </h2>
 
 <p align="center">
-
+  <img
+    src="./arthur_pixel_game.gif"
+    width="100%"
+    alt="Animação em pixel art do meu mundo digital"
+  />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=2" width="85%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=2"
+    width="85%"
+  />
 </p>
 
 <p align="center">
+  <sub>EXPLORING • CREATING • DEVELOPING</sub>
 </p>
 
 ---
 
-</p>
-
----
+<!-- SOBRE MIM -->
 
 ## Sobre mim
 
@@ -59,6 +79,8 @@
 - Em constante aprendizado e desenvolvimento profissional.
 
 ---
+
+<!-- TECNOLOGIAS -->
 
 ## Linguagens e Tecnologias
 
@@ -80,6 +102,8 @@
 
 ---
 
+<!-- OUTROS CONHECIMENTOS -->
+
 ## Outros conhecimentos
 
 - Lógica de programação.
@@ -87,6 +111,8 @@
 - Microsoft Excel — Intermediário.
 
 ---
+
+<!-- CURRÍCULO -->
 
 ## Meu currículo
 
@@ -105,7 +131,7 @@
 
 ---
 
-## Obrigado pela visita!
+<!-- RODAPÉ -->
 
 <p align="center">
   <i>
@@ -116,5 +142,5 @@
 </p>
 
 <p align="center">
-  Obrigado por visitar meu perfil!
+  Obrigado pela visita ao meu perfil!
 </p>
