@@ -1,4 +1,12 @@
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0756B8,100:00CFFF&height=180&section=header&text=Arthur%20Duque&fontSize=55&fontColor=FFFFFF&animation=twinkling&stroke=00A6FF&strokeWidth=2&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descSize=17&descAlignY=75" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Sistemas;Tecnologia+e+Inova%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo..." />
+</p>
+
 # Arthur Duque
 
 ### Estudante de Desenvolvimento de Sistemas | Tecnologia e Inovação
