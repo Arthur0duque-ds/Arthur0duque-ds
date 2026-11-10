@@ -21,7 +21,6 @@
   <br><br>
   Sou interessado em tecnologia, programação e inovação. Busco constantemente desenvolver meus conhecimentos técnicos e pessoais, aprimorar minhas habilidades e construir minha trajetória profissional na área de tecnologia.
 </p>
-
 <p align="center">
   <img
     src="./arthur_game.gif"
@@ -29,7 +28,6 @@
     alt="Animação de jogo em pixel art"
   />
 </p>
-
 
 ## Sobre mim
 
