@@ -18,10 +18,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=450&lines=Programming+%26+Technology;Always+learning%2C+always+building." />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1B35,100:020617&height=3&section=footer" width="100%" />
-</p>
-
 ### Estudante de Desenvolvimento de Sistemas 
 <p align="left">
   Tenho 17 anos e atualmente curso Desenvolvimento de Sistemas no SENAI e estou no 2º ano do Ensino Médio no SESI.
