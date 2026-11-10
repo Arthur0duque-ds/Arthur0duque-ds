@@ -36,11 +36,7 @@
 </h2>
 
 <p align="center">
-  <img
-    src="./arthur_pixel_game.gif"
-    width="100%"
-    alt="Meu mundo digital em pixel art"
-  />
+
 </p>
 
 <p align="center">
