@@ -22,8 +22,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1B35,100:020617&height=3&section=footer" width="100%" />
 </p>
 
-### Estudante de Desenvolvimento de Sistemas | Tecnologia e Inovação
-
+### Estudante de Desenvolvimento de Sistemas 
 <p align="left">
   Tenho 17 anos e atualmente curso Desenvolvimento de Sistemas no SENAI e estou no 2º ano do Ensino Médio no SESI.
   <br><br>
