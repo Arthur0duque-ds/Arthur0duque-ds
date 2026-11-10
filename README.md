@@ -1,18 +1,18 @@
 
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0B1B35&height=3&section=header"
-    width="100%"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Arthur+Duque"
+    alt="Arthur Duque"
   />
 </p>
 
-<h1 align="center">
-  Arthur Duque
-</h1>
-
 <p align="center">
-  <strong>Desenvolvimento de Sistemas | Tecnologia e Inovação</strong>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=2&section=header" width="85%" />
 </p>
+
+  
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=450&lines=Programming+%26+Technology;Always+learning%2C+always+building." />
