@@ -23,10 +23,10 @@
 </p>
 <p align="center">
   <img
-    src="./arthur_game.gif"
-    width="85%"
-    alt="Animação de jogo em pixel art"
-  />
+  src="./arthur_game.gif"
+  width="85%"
+  alt="Animação de jogo em pixel art"
+/>
 </p>
 
 ## Sobre mim
