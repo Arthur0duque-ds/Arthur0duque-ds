@@ -48,7 +48,6 @@
 </p>
 
 <p align="center">
-  <sub>◈ EXPLORING • CREATING • DEVELOPING ◈</sub>
 </p>
 
 ---
