@@ -1,5 +1,5 @@
 
-<!-- CABEÇALHO ANIMADO -->
+<!-- CABEÇALHO -->
 
 <p align="center">
   <img
@@ -10,21 +10,10 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=2"
-    width="85%"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=450&lines=Programming+%26+Technology;Always+learning%2C+always+building."
     alt="Programming and Technology"
   />
 </p>
-
----
-
-<!-- APRESENTAÇÃO -->
 
 ### Estudante de Desenvolvimento de Sistemas
 
@@ -33,40 +22,6 @@
   <br><br>
   Sou interessado em tecnologia, programação e inovação. Busco constantemente desenvolver meus conhecimentos técnicos e pessoais, aprimorar minhas habilidades e construir minha trajetória profissional na área de tecnologia.
 </p>
-
----
-
-<!-- GAME / PIXEL ART -->
-
-<h2 align="center">
-  <img
-    src="https://img.shields.io/badge/MY%20DIGITAL%20WORLD-071A33?style=flat-square&labelColor=071A33&color=071A33"
-    alt="My Digital World"
-  />
-</h2>
-
-<p align="center">
-  <img
-    src="./arthur_pixel_game.gif"
-    width="100%"
-    alt="Animação em pixel art do meu mundo digital"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0EA5E9,100:020617&height=2"
-    width="85%"
-  />
-</p>
-
-<p align="center">
-  <sub>EXPLORING • CREATING • DEVELOPING</sub>
-</p>
-
----
-
-<!-- SOBRE MIM -->
 
 ## Sobre mim
 
@@ -77,10 +32,6 @@
 - Inglês — Avançado.
 - Espanhol — Básico.
 - Em constante aprendizado e desenvolvimento profissional.
-
----
-
-<!-- TECNOLOGIAS -->
 
 ## Linguagens e Tecnologias
 
@@ -100,19 +51,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
 
----
-
-<!-- OUTROS CONHECIMENTOS -->
-
 ## Outros conhecimentos
 
 - Lógica de programação.
 - Desenvolvimento de Sistemas.
 - Microsoft Excel — Intermediário.
-
----
-
-<!-- CURRÍCULO -->
 
 ## Meu currículo
 
@@ -128,10 +71,6 @@
     />
   </a>
 </p>
-
----
-
-<!-- RODAPÉ -->
 
 <p align="center">
   <i>
