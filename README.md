@@ -1,85 +1,29 @@
-
 <!-- CABEÇALHO -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3500&pause=1500&color=f08080&center=true&vCenter=true&width=600&lines=Arthur+Duque"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3500&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Arthur+Duque"
     alt="Arthur Duque"
   />
 </p>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=450&lines=Programming+%26+Technology;Always+learning%2C+always+building."
-    alt="Programming and Technology"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=94A3B8&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Desenvolvimento+de+Software+%26+Tecnologia"
+    alt="Estudante de Desenvolvimento de Sistemas"
   />
 </p>
 
-### Estudante de Desenvolvimento de Sistemas
-
-<p align="left">
-  Tenho 17 anos e atualmente curso Desenvolvimento de Sistemas no SENAI e estou no 2º ano do Ensino Médio no SESI.
-  <br><br>
-  Sou interessado em tecnologia, programação e inovação. Busco constantemente desenvolver meus conhecimentos técnicos e pessoais, aprimorar minhas habilidades e construir minha trajetória profissional na área de tecnologia.
-</p>
-
-
 ## Sobre mim
 
-- Curso Técnico em Desenvolvimento de Sistemas — SENAI.
-- 2º ano do Ensino Médio — SESI.
-- Interesse em programação e desenvolvimento de software.
-- Microsoft Excel — Intermediário.
-- Inglês — Avançado.
-- Espanhol — Básico.
-- Em constante aprendizado e desenvolvimento profissional.
+Sou estudante de Desenvolvimento de Sistemas no SENAI e estou concluindo o 2º ano do Ensino Médio no SESI. Tenho interesse em desenvolvimento de software, tecnologia e inovação, além de dedicação constante ao aprimoramento técnico e profissional.
 
-## Linguagens e Tecnologias
+Busco transformar conhecimentos em soluções práticas por meio de projetos, estudos continuados e desenvolvimento de competências em programação.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</div>
+## Formação e competências
 
-## Outros conhecimentos
-
-- Lógica de programação.
-- Desenvolvimento de Sistemas.
-- Microsoft Excel — Intermediário.
-
-## Meu currículo
-
-<p align="left">
-  Conheça um pouco mais sobre minha formação, conhecimentos, idiomas e habilidades profissionais.
-</p>
-
-<p align="left">
-  <a href="https://arthur0duque-ds.github.io/Curr-culo-/">
-    <img
-      src="https://img.shields.io/badge/MEU%20CURR%C3%8DCULO-1769AA?style=for-the-badge&logo=readme&logoColor=white"
-      alt="Meu currículo"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <i>
-    <strong>
-      "O aprendizado contínuo é o caminho para transformar conhecimento em oportunidades."
-    </strong>
-  </i>
-</p>
-
-<p align="center">
-  Obrigado pela visita ao meu perfil!
-</p>
+- **Curso Técnico:** Desenvolvimento de Sistemas — SENAI
+- **Ensino Médio:** 2º ano — SESI
+- **Principais interesses:** Desenvolvimento de software e tecnologia
+- **Microsoft Excel:** Inter
+
